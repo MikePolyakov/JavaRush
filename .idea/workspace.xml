@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="806ba0f0-5cee-4f1d-923f-fe29228cad10" name="Default" comment="Level 01">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/level01/task01/task0101/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/level01/task01/task0102/Solution.java" afterPath="" />
+    <list default="true" id="806ba0f0-5cee-4f1d-923f-fe29228cad10" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -245,6 +243,14 @@
       <option name="presentableId" value="Default" />
       <updated>1506988853647</updated>
     </task>
+    <task id="LOCAL-00001" summary="Level 01">
+      <created>1506991841323</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1506991841323</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
