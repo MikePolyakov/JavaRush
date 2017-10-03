@@ -1,0 +1,42 @@
+package level01.task09.task0906Log;
+
+/*
+Логирование стек трейса
+
+Реализовать метод log.
+Он должен выводить на экран имя класса и имя метода (в котором вызывается метод log), а также переданное сообщение.
+Имя класса, имя метода и сообщение разделить двоеточием с пробелом.
+
+Пример вывода:
+com.javarush.task.task09.task0906Log.Solution: main: In main method
+
+
+Требования:
+1. Метод log должен выводить сообщение на экран.
+2. Выведенное сообщение должно содержать имя класса, метод которого вызвал метод log.
+3. Выведенное сообщение должно содержать имя метода, который вызвал метод log.
+4. Выведенное сообщение должно содержать переданное сообщение.
+5. Вывод должен соответствовать примеру из задания.
+*/
+
+public class Solution {
+    public static void main(String[] args) {
+        log("In main method");
+    }
+
+    public static void log(String s) {
+        //напишите тут ваш код
+        StackTraceElement[] a = Thread.currentThread().getStackTrace();
+        System.out.println("Я метод "+a[1].getMethodName());
+        System.out.println("Меня вызвал "+a[2].getMethodName());
+        System.out.println("Вызов произошел из строки номер "+a[2].getLineNumber());
+        System.out.println("getClass " + a[0].getClass());
+        System.out.println("getClassName " + a[0].getClassName());
+        System.out.println("getClassName " + a[2].getClassName());
+        System.out.println("getFileName " + a[0].getFileName()) ;
+        StackTraceElement element = Thread.currentThread().getStackTrace()[2];
+        System.out.println(element.getClassName() + ": " + element.getMethodName() + ": " + s);
+
+
+    }
+}

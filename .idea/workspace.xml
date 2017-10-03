@@ -2,6 +2,123 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="806ba0f0-5cee-4f1d-923f-fe29228cad10" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task01/task0101/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task01/task0102/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task01/task0103/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task01/task0105/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task01/task0106/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task01/task0107/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task01/task0108/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task01/task0109/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task01/task0110/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task01/task0111/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task01/task0128/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task01/task0140Scanner/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task02/task0200FileCopy/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task02/task0202/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task02/task0213/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task04/task0401/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task04/task0402/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task04/task0403/Cat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task04/task0404/Cat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task04/task0405/Cat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task04/task0406/Cat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task04/task0407/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task04/task0408/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task04/task0409/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task04/task0410/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task05/task0530BufferInt/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task05/task0531IntMin/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task06/task0620/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task06/task0621/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task06/task0622/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task07/task0726/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task07/task0727/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task07/task0728/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0800Time/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0802/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0803/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0804/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0805/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0806/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0807/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0808/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0809/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0810/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0811/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0812/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0812b/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0813/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0814_Iterator/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0815_HashMap/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0816/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0817/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0818/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0819/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0820/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0821/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0822/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0823/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0824/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0825/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0826/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0827Date/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0828Month/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0829a/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0829b/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0829c/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0829d/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task08/task0830StringSort/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0901StackTraceElement/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0902getMethodName/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0903getLineNumber/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0904ReturnMethod/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0905DeepStack/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0906Log/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0907DivisionByZero/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0908NullPointerException/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0909ArrayIndexOutOfBoundsException/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0910IndexOutOfBoundsException/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0911NullPointerException/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0912NumberFormatException/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0913Exception/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0914Exception123/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0915Bean/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0915BeanLog/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0916/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0917/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0918/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0919ArithmeticException/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0920ThreadSleep/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0921IntegerInput/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0922DateInput/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0923RussianVowels/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0924RedHoodClass/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0925Static/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0926ArrayList/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0927HasMap/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0928FileCopy/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0929FileWrite/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task09/task0930Sort/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1001/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1002/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1003/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1004/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1005/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1006/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1007/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1008/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1009/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1010/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1011SubstringTrim/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1012Alphabet/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1013Constructor/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1014_Static/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1015_ArrayWithArrayListOfStrings/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1016_WordsCount/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1017_БезопасноеИзвлечениеИзСписка/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level01/task10/task1018_HashMap/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level02/task11/task1101/Solution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -13,7 +130,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/level01/task01/task0101/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,6 +205,23 @@
               <item name="JavaRush" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaRush" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaRush" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRush" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRush" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRush" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="level01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRush" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRush" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="level02" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -85,6 +230,9 @@
       <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -250,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1506991841323</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Level 01">
+      <created>1506991958913</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1506991958913</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -328,14 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/level01/task01/task0101/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/level01/task01/task0102/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -396,6 +543,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/level01/task01/task0101/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
