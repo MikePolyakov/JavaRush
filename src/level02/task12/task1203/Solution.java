@@ -26,15 +26,24 @@ public class Solution {
 
     public static class Pet {
         public Pet getChild() {
+            System.out.println("new Pet");
             return new Pet();
         }
     }
 
     public static class Cat extends Pet {
+        public Cat getChild() {
+            System.out.println("new Cat ");
+            return new Cat();
+        }
 
     }
 
     public static class Dog extends Pet {
+        public Dog getChild() {
+            System.out.println("new Dog ");
+            return new Dog();
+        }
 
     }
 }
