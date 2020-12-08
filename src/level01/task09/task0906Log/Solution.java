@@ -8,7 +8,7 @@ package level01.task09.task0906Log;
 Имя класса, имя метода и сообщение разделить двоеточием с пробелом.
 
 Пример вывода:
-com.javarush.task.task09.task0906Log.Solution: main: In main method
+com.javarush.level03.task.task09.task0906Log.Solution: main: In main method
 
 
 Требования:

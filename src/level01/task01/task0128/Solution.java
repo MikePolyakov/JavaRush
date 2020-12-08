@@ -13,7 +13,7 @@ package level01.task01.task0128;
 public class Solution {
     public static void main(String[] args) {
         //напишите тут ваш код
-        sum(3, 5);
+        sum(2, 2);
     }
 
     public static void sum(int a, int b) {
