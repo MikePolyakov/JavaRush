@@ -1,77 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="806ba0f0-5cee-4f1d-923f-fe29228cad10" name="Default" comment="Level 01">
-      <change afterPath="$PROJECT_DIR$/src/level03/task03/task0301/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="806ba0f0-5cee-4f1d-923f-fe29228cad10" name="Default" comment="Level 03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task01/task0128/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task01/task0128/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task04/task0401/Solution$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task04/task0401/Solution$Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task06/task0620/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task06/task0620/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task06/task0622/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task06/task0622/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task07/task0726/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task07/task0726/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task07/task0727/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task07/task0727/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task07/task0728/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task07/task0728/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0800Time/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0800Time/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0802/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0802/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0803/Solution$Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0803/Solution$Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0803/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0803/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0804/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0804/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0805/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0805/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0806/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0806/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0812/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0812/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0812b/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0812b/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0813/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0813/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0814_Iterator/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0814_Iterator/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0815_HashMap/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0815_HashMap/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0816/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0816/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0817/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0817/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0818/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0818/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0819/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0819/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0820/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0820/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0821/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0821/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0822/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0822/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0823/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0823/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0824/Solution$Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0824/Solution$Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0826/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0826/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0827Date/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0827Date/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0828Month/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0828Month/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0829a/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0829a/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0829b/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0829b/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0829c/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0829c/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0829d/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0829d/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0830StringSort/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task08/task0830StringSort/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0907DivisionByZero/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0907DivisionByZero/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0908NullPointerException/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0908NullPointerException/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0909ArrayIndexOutOfBoundsException/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0909ArrayIndexOutOfBoundsException/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0910IndexOutOfBoundsException/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0910IndexOutOfBoundsException/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0911NullPointerException/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0911NullPointerException/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0912NumberFormatException/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0912NumberFormatException/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0913Exception/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0913Exception/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0914Exception123/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0914Exception123/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0915Bean/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0915Bean/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0915BeanLog/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0915BeanLog/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0916/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0916/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0917/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0917/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0919ArithmeticException/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0919ArithmeticException/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0920ThreadSleep/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0920ThreadSleep/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0921IntegerInput/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0921IntegerInput/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0922DateInput/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0922DateInput/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0923RussianVowels/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0923RussianVowels/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0926ArrayList/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0926ArrayList/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0927HasMap/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0927HasMap/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0928FileCopy/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0928FileCopy/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0929FileWrite/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task09/task0929FileWrite/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task10/task1011SubstringTrim/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task10/task1011SubstringTrim/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task10/task1012Alphabet/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task10/task1012Alphabet/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task10/task1015_ArrayWithArrayListOfStrings/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task10/task1015_ArrayWithArrayListOfStrings/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task10/task1016_WordsCount/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task10/task1016_WordsCount/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task10/task1017_БезопасноеИзвлечениеИзСписка/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task10/task1017_БезопасноеИзвлечениеИзСписка/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level01/task10/task1018_HashMap/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level01/task10/task1018_HashMap/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level02/task12/task1204/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level02/task12/task1204/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRush/level02/task12/task1205/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRush/level02/task12/task1205/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level01/task01/task0128/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level01/task01/task0128/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level01/task09/task0906Log/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level01/task09/task0906Log/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,18 +170,26 @@
       <option name="project" value="LOCAL" />
       <updated>1506994257331</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Level 03">
+      <created>1607386151749</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607386151749</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Level 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Level 01" />
+    <MESSAGE value="Level 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Level 03" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="293" y="23" key="CommitChangelistDialog2" timestamp="1607374376481">
+    <state x="293" y="23" key="CommitChangelistDialog2" timestamp="1607386150986">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="293" y="23" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1607374376481" />
+    <state x="293" y="23" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1607386150986" />
     <state width="1001" height="195" key="GridCell.Tab.0.bottom" timestamp="1607379468694">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -271,5 +210,9 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="131" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1607385502596" />
+    <state x="230" y="141" key="Vcs.Push.Dialog.v2" timestamp="1607386213728">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="230" y="141" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1607386213728" />
   </component>
 </project>
